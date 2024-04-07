@@ -1,2 +1,0 @@
-# BaekjoonHub
-coding test
